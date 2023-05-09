@@ -1,4 +1,4 @@
 # JavaNES
 
 ## Objective
-A NES emulator written in Java. The program allows users to play classic NES games on their computer. The program emulates the 6052 processor, Picture Processing Unit (PPU), Audio Processing Unit (APU), and other componenets of the NES to provide an authentic gaming experience.
+To create a Java-based NES emulator that accurately emulates the 6502 processor, PPU, and APU, allowing users to play classic NES games on their computer with authentic graphics and sound. The program should be user-friendly and support loading NES ROMs, keyboard and gamepad input, and audio playback. The ultimate goal is to provide a fun and nostalgic way for users to relive the classic NES gaming experience on their computer.
