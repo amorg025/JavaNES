@@ -1,0 +1,13 @@
+# Compiled class file
+**/*.class
+**/.gradle/
+*.jar 
+
+# Build directories
+build/
+bin/
+
+# IDE settings
+.project
+.classpath
+.vscode/
